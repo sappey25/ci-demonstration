@@ -1,4 +1,8 @@
 <cfoutput>
 <!---test run file--->
-testing
+This is an emergency update but we are not using hotfixes
+
+<cfset name = "Brian">
+
+#name#
 </cfoutput>
