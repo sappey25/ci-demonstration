@@ -9,7 +9,7 @@
          
     </head>
     <body>
-        Today is not Tuesday.
+        Today is Tuesday!
     </body>
 </html>
 </cfoutput>
