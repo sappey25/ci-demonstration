@@ -9,7 +9,7 @@
          
     </head>
     <body>
-        Welcome, to the #trainingName#. Hope you are learning something from the class!
+        Welcome, to the #trainingName#. Enjoy! New Changes
     </body>
 </html>
 </cfoutput>
