@@ -1,5 +1,5 @@
 <cfscript>
- trainingName = "ColdFusion CI CD Training 2023 for ColdFusion 2021";
+ trainingName = "ColdFusion CI CD Training 2023 for ColdFusion 2023. CI Part of the training.";
  presenterName = "Brian Sappey";
 </cfscript>
 <cfoutput>
