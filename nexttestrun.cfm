@@ -1,3 +1,3 @@
 <cfoutput>
-Placeholder
+Placeholder for the warmup
 </cfoutput>
