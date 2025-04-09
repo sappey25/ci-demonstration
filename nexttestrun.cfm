@@ -1,3 +1,3 @@
 <cfoutput>
-Placeholder for the warmup
+This file needs to change. Old content needed to be purged.
 </cfoutput>
